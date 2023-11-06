@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **shreedharjoshi03@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1aOULzuLVuG9AfXWpeaT5jAlWRfldoEs6/edit?usp=sharing&ouid=102857186089800969785&rtpof=true&sd=true](https://docs.google.com/document/d/1aOULzuLVuG9AfXWpeaT5jAlWRfldoEs6/edit?usp=sharing&ouid=102857186089800969785&rtpof=true&sd=true)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1aOULzuLVuG9AfXWpeaT5jAlWRfldoEs6/edit?usp=drive_link&ouid=102857186089800969785&rtpof=true&sd=true](https://docs.google.com/document/d/1aOULzuLVuG9AfXWpeaT5jAlWRfldoEs6/edit?usp=drive_link&ouid=102857186089800969785&rtpof=true&sd=true)
 
 - ⚡ Fun fact **I'm an avid gamer with a passion for Multiplayer Online games. In my free time, you'll often find me immersed in virtual worlds, honing my strategic thinking and teamwork skills. This gaming enthusiasm not only brings enjoyment to my life but also enhances my problem-solving abilities, which I apply to my work as a Software Developer.**
 
