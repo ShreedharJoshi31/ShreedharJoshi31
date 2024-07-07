@@ -4,6 +4,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/ShreedharJoshi31](https://github.com/ShreedharJoshi31)
 
 - 📫 How to reach me **shreedharjoshi03@gmail.com**
+  
+- 📫 Wanna know more about me ? **https://shreedhar-portfolio.vercel.app/**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1NtPuZ4WuX9XR9_ttDbLLiXoCfOWWpVZL/view?usp=sharing)
 
