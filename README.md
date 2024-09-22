@@ -7,7 +7,7 @@
   
 - 📫 Wanna know more about me ? **https://shreedhar-portfolio.vercel.app/**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1NtPuZ4WuX9XR9_ttDbLLiXoCfOWWpVZL/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1GeIskDdn7cWDDWR_tjRURrUhl9z7fVYp/view)
 
 - ⚡ Fun fact **I'm an avid gamer with a passion for Multiplayer Online games. In my free time, you'll often find me immersed in virtual worlds, honing my strategic thinking and teamwork skills. This gaming enthusiasm not only brings enjoyment to my life but also enhances my problem-solving abilities, which I apply to my work as a Software Developer.**
 
